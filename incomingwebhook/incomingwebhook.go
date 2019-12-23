@@ -120,4 +120,3 @@ func (s SlackMessage) request(contents io.Reader) error {
 
 	return nil
 }
-
